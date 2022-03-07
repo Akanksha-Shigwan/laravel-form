@@ -1,0 +1,8 @@
+run composer create-project laravel/laravel (folder name) (file name)
+1-Create login.blade.php -> add Html code in it -> with post and action
+2-create route in web.php with api and view
+3-run php artisan serve in terminal
+4-run php artisan make:controller UserController -> add table sorting data here
+5-run php artisan make:model user (singular to table users)
+6-add public $timestamps = false;
+7-in web.php create route with action and controller.
